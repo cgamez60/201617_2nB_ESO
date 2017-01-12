@@ -1,4 +1,4 @@
-# 201617_3rB_ESO
+# 201617 3rB ESO
 
 Repositori projecte 3r ESO B fet per Sergi Curtu
 
